@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "82C8ss2J/QY=",
+  "dgSpecHash": "ETADu2p/Y64=",
   "success": true,
   "projectFilePath": "C:\\Users\\Varad Dhumale\\Desktop\\data\\rtu_client\\ModbusRtuWebApi\\ModbusRtuWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Varad Dhumale\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
-    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
     "C:\\Users\\Varad Dhumale\\.nuget\\packages\\nmodbus\\3.0.81\\nmodbus.3.0.81.nupkg.sha512",
     "C:\\Users\\Varad Dhumale\\.nuget\\packages\\nmodbus.serial\\3.0.81\\nmodbus.serial.3.0.81.nupkg.sha512",
     "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\10.0.3\\runtime.android-arm.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
