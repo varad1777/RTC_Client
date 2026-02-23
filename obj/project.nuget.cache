@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "82C8ss2J/QY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Varad Dhumale\\Desktop\\data\\rtu_client\\ModbusRtuWebApi\\ModbusRtuWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\nmodbus\\3.0.81\\nmodbus.3.0.81.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\nmodbus.serial\\3.0.81\\nmodbus.serial.3.0.81.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\10.0.3\\runtime.android-arm.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\10.0.3\\runtime.android-arm64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\10.0.3\\runtime.android-x64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\10.0.3\\runtime.android-x86.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\10.0.3\\runtime.linux-arm.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\10.0.3\\runtime.linux-arm64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\10.0.3\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\10.0.3\\runtime.linux-bionic-x64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\10.0.3\\runtime.linux-musl-arm.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\10.0.3\\runtime.linux-musl-arm64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\10.0.3\\runtime.linux-musl-x64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\10.0.3\\runtime.linux-x64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\10.0.3\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\10.0.3\\runtime.maccatalyst-x64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.native.system.io.ports\\10.0.3\\runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\10.0.3\\runtime.osx-arm64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\10.0.3\\runtime.osx-x64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
+    "C:\\Users\\Varad Dhumale\\.nuget\\packages\\system.io.ports\\10.0.3\\system.io.ports.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
