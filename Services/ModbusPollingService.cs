@@ -42,11 +42,15 @@ public class ModbusPollingService : BackgroundService
 
                 while (!stoppingToken.IsCancellationRequested)
                 {
+                     Console.Write("[INFO] Reading registers... ");
                     ushort[] v = master.ReadHoldingRegisters(SLAVE_ID, REG_VOLTAGE, 2);
-                    ushort[] t = master.ReadHoldingRegisters(SLAVE_ID, REG_TEMPERATURE, 2);
 
+                    ushort[] t = master.ReadHoldingRegisters(SLAVE_ID, REG_TEMPERATURE, 2);
+                        Console.WriteLine("OK");
                     float voltage = RegsToFloat(v[0], v[1]);
                     float temperature = RegsToFloat(t[0], t[1]);
+                    Console.WriteLine($"[DEBUG] Raw Voltage Regs: {v[0]:X4} {v[1]:X4} => {voltage:F2}V");
+                    Console.WriteLine($"[DEBUG] Raw Temp Regs: {t[0]:X4} {t[1]:X4} => {temperature:F2}°C");
 
                     LiveData = new ModbusData
                     {
