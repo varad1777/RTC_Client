@@ -37,8 +37,10 @@ public class ModbusPollingService : BackgroundService
                 var adapter = new SerialPortAdapter(port);
                 using var master = factory.CreateRtuMaster(adapter);
 
-                master.Transport.Retries = 2;
-                master.Transport.WaitToRetryMilliseconds = 200;
+                port.ReadTimeout = 3000;       // 3 seconds
+                port.WriteTimeout = 3000;      // 3 seconds
+                master.Transport.Retries = 3;
+                master.Transport.WaitToRetryMilliseconds = 500;
 
                 while (!stoppingToken.IsCancellationRequested)
                 {
