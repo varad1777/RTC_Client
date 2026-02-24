@@ -66,7 +66,7 @@ public class ModbusPollingService : BackgroundService
             catch (Exception ex)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"[ERROR] {ex} — reconnecting...");
+                Console.WriteLine($"[ERROR] {ex.Message} — reconnecting...");
                 Console.ResetColor();
 
                 await Task.Delay(3000, stoppingToken);
