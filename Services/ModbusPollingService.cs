@@ -9,7 +9,7 @@ public class ModbusPollingService : BackgroundService
 {
     public static ModbusData LiveData { get; private set; } = new();
 
-    const string SERIAL_PORT = "dev/serial0";
+    const string SERIAL_PORT = "/dev/serial0";
     // const string SERIAL_PORT = "/dev/ttyUSB0";
     const int BAUD = 9600;
     const byte SLAVE_ID = 1;
